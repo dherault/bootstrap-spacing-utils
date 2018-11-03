@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-spacing-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Bootstrap 4's spacing classes",
   "main": "index.css",
   "license": "MIT",
