@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-spacing-utils",
+  "version": "0.0.0",
+  "description": "Bootstrap 4's spacing classes",
+  "main": "index.css",
+  "license": "MIT",
+  "author": "David Hérault <dherault@gmail.com> (https://github.com/dherault)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherault/bootstrap-spacing-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dherault/bootstrap-spacing-utils/issues"
+  },
+  "homepage": "https://github.com/dherault/bootstrap-spacing-utils#readme",
+  "keywords": [
+    "Bootstrap",
+    "spacing"
+  ],
+  "scripts": {
+    "build": "node-sass index.scss index.css"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.4"
+  }
+}
